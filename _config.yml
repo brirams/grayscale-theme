@@ -25,6 +25,10 @@ social:
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
 
+grayscale-theme:
+  first-name: Start
+  last-name: Bootstrap
+
 # Build settings
 markdown: kramdown
 permalink: pretty

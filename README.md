@@ -1,13 +1,8 @@
-Grayscale Jekyll theme
-=========================
+Grayscale Jekyll theme(bramos edition)
+======================================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+A [fork](https://github.com/jeromelachaud/grayscale-theme) of a jekyll implementation of a bootstrap
+theme that I liked. I could've probably just copy-pasta'd my way into this instead of forking but
+there were some javascript things that I wanted to rip out so this is where I ended up.
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+You can see the final product at brirams.github.io
